@@ -1,1 +1,1 @@
-# crud-html
+# 学習用CRUDアプリのHTML
